@@ -103,7 +103,7 @@ PDFify
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RaoVrn/PDFify.git
+   git clone https://github.com/pd1802/PDFXpert.git
    cd PDFify
    ```
 

@@ -204,7 +204,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-- **Varun Prakash**
+- **Prasoon Dwivedi**
 - [GitHub](https://github.com/RaoVrn)
 - [Email](mailto:prakash.varun.0305@gmail.com)
 
